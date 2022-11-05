@@ -3,5 +3,7 @@ public class RemoteApp {
         System.out.println("Remote repo message from Tim app");
 
         System.out.println("Print message from second commit");
+
+        System.out.println("Hello");
     }
 }
